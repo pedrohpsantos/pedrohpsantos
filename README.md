@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0e68c&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Pedro+Henrique;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
@@ -37,3 +40,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
