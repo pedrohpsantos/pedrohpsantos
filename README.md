@@ -13,12 +13,8 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:phps2014.phps@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/php-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <a href = "mailto:phps2014.phps@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Instagram" width="60"/>
+  <a href = "https://www.linkedin.com/in/php-santos/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt= "LinkedIn" width="60"/>
 </div>
 
 # 💻 Tech Stack:
