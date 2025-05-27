@@ -5,7 +5,7 @@
 
 <br><br>
 <div align="center">  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohpsantos&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR&exclude_repo=AP1-EC-Sistema-de-gestao-financeira,">  
   <br><br>
 
