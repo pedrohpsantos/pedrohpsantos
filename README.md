@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=en&exclude_repo=AP1-EC-Sistema-de-gestao-financeira&count_private=true&cache_seconds=7200" />  
   <br><br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrohpsantos&custom_title=My%20Contributions&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https://github.com/GabrielCastelo-31/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrohpsantos&custom_title=My%20Contributions&hide_border=true&theme=one-dark&point=f0e68c&line=fff&days=15&text_color=fff&title_color=f0e68c&bg_color=0d1117&icon_color=f0e68c&include_all_commits=true&count_private=true)](https://github.com/pedrohpsantos/github-readme-activity-graph)
 </div>
 
 <div align="center"> 
