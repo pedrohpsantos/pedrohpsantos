@@ -40,7 +40,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go&theme=dark" width="55" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
   <br>
-  Atualmente estudando <b>Go</b>
 </p>
 
 <br><br>
