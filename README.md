@@ -16,12 +16,22 @@
 </div>
 
  # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark"        width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark"      width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark"     width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"   width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark"     width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark"      width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark"       width="44" style="margin-right:6px;filter:saturate(75%) brightness(110%) opacity(0.95);" />
+</p>
+
 
 <br><br>
 
 ## 🌱 Learning about
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go&theme=dark" width="44"
+     style="margin-right:6px;filter:saturate(70%) brightness(105%) opacity(0.95);" />
 
 <br><br>
           
