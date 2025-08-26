@@ -47,7 +47,7 @@
 <!-- ✨ Random Dev Quote -->
 <h2 align="center">✨ Random Dev Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
 </p>
 
 <!-- 🐍 Snake Animation -->
@@ -57,13 +57,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohpsantos/pedrohpsantos/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/pedrohpsantos/pedrohpsantos/output/github-snake.svg" />
 </picture>
-
-<br><br>
-
-<!-- 👀 Visitors -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrohpsantos&color=89b4fa&style=for-the-badge" alt="Profile views"/>
-</p>
 
 <br><br>
 
