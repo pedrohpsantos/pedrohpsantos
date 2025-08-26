@@ -31,8 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
-  
 </p>
 
 <br><br>
@@ -40,7 +38,6 @@
 <!-- 🌱 Learning -->
 <h2 align="center">🌱 Learning about</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
   <img src="https://skillicons.dev/icons?i=go&theme=dark" width="55" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
   <br>
   Atualmente estudando <b>Go</b>
