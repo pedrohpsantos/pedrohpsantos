@@ -7,7 +7,7 @@
 <br><br>
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohpsantos&show_icons=true&theme=default&text_color=cdd6f4&title_color=f5e0dc&rank_icon=default&bg_color=1e1e2e&icon_color=89b4fa&hide_border=true&include_all_commits=true&count_private=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohpsantos&show_icons=true&theme=default&text_color=cdd6f4&title_color=f5e0dc&rank_icon=default&bg_color=1e1e2e&icon_color=89b4fa&hide_border=true&locale=en" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&layout=compact&text_color=cdd6f4&title_color=f5e0dc&bg_color=1e1e2e&hide_border=true&locale=en&exclude_repo=AP1-EC-Sistema-de-gestao-financeira&count_private=true&cache_seconds=7200" />  
   <br><br>
