@@ -26,8 +26,5 @@
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" style="margin:6px;filter:saturate(80%) brightness(110%) opacity(0.95);" />
 </p>
 
-<br><br>
-
 <!-- 🎨 Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=100&section=footer&text=&fontSize=0" width="100%">
-
