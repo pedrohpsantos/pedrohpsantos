@@ -28,14 +28,6 @@
 
 <br><br>
 
-<!-- ✨ Quote -->
-<h2 align="center">✨ Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" />
-</p>
-
-<br><br>
-
 <!-- 🎨 Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=100&section=footer&text=&fontSize=0" width="100%">
 
