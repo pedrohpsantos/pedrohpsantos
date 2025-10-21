@@ -10,6 +10,9 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohpsantos&show_icons=true&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&title_color=f5e0dc&icon_color=89b4fa&rank_icon=default" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&hide_border=true&layout=compact&langs_count=7&bg_color=1e1e2e&text_color=cdd6f4&title_color=f5e0dc&icon_color=89b4fa" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
+            <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohpsantos&theme=catppuccin-mocha&hide_border=true&stroke=0000"/>
+        </a>
 </div>
 
 <br><br>
