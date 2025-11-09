@@ -9,7 +9,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&hide_border=true&layout=compact&langs_count=7&theme=catppuccin_mocha&v=1" />
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
-            <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pedro Henrique's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohpsantos&theme=catppuccin-mocha&hide_border=true&stroke=0000"/>
+            <img width="160em" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pedro Henrique's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohpsantos&theme=catppuccin-mocha&hide_border=true&stroke=0000"/>
   </a>
 </div>
 
