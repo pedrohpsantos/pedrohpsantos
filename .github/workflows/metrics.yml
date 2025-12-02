@@ -12,41 +12,46 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # AQUI MUDOU: Agora usa o seu token privado para ver repos privados
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Opções Gerais
           user: pedrohpsantos
+          
+          # === Visual & Tema (Catppuccin Mocha Real) ===
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          config_padding: 0, 10%
           
-          # Tema Catppuccin Mocha (Azul e Escuro)
+          # Forçando as cores do Catppuccin Mocha via CSS
           config_style_css: |
              .header { fill: #89b4fa; }
              .stat { color: #cdd6f4; }
              .field { color: #cdd6f4; }
+             .content { color: #cdd6f4; }
+             h2 { color: #89b4fa; }
           
-          # === Linguagens (Agora vai ler seus repos privados) ===
+          # === Linguagens ===
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
           plugin_languages_details: bytes-size, percentage
           
-          # === Conquistas (Simplificado para evitar erro) ===
+          # === Conquistas (Modo Compacto e Seguro) ===
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes 
+          # Desativei 'secrets' temporariamente pois costuma causar o erro se o token não for perfeito
+          plugin_achievements_secrets: no 
           
-          # === Hábitos (Otimizado) ===
+          # === Hábitos de Codificação (Correção do Erro) ===
           plugin_habits: yes
-          plugin_habits_from: 200
+          # Reduzi de 200 para 100 eventos para evitar o crash (timeout)
+          plugin_habits_from: 100
           plugin_habits_days: 14
-          plugin_habits_facts: no     # Desativei "fatos" pois costuma dar erro
-          plugin_habits_charts: yes   # Mantive os gráficos
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           
           # === Linhas de Código ===
           plugin_lines: yes
