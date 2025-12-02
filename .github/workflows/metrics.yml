@@ -15,13 +15,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: pedrohpsantos
           
-          # === Configuração: Apenas Linguagens ===
-          # "base: header" mantém apenas o topo (Nome). 
-          # Se quiser remover até o nome e deixar SÓ as barras, use base: ""
+          # === Visual Minimalista ===
           base: "" 
-          
-          # Configuração Visual (Catppuccin Mocha)
           config_timezone: America/Sao_Paulo
+          
+          # CSS para garantir que o texto fique legível no fundo escuro
           config_style_css: |
              .stat { color: #cdd6f4; }
              .field { color: #cdd6f4; }
@@ -29,12 +27,17 @@ jobs:
           
           # === Plugin: Linguagens ===
           plugin_languages: yes
-          # Removi 'shell' também para focar nas linguagens de programação reais
+          # Removi 'shell' da lista de ignorados para mostrar mais coisas se quiser
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, shell
-          plugin_languages_limit: 8
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          
+          # AQUI MUDOU: Limite maior e threshold zero para mostrar tudo
+          plugin_languages_limit: 15
+          plugin_languages_threshold: 0%
+          
+          # AQUI MUDOU: Cores "rainbow" para evitar repetição e ficar mais vivo
+          plugin_languages_colors: "rainbow"
+          
           plugin_languages_sections: most-used
-          plugin_languages_colors: "github"
           plugin_languages_details: bytes-size, percentage
-          # Layout compacto para caber bem
           plugin_languages_indepth: yes
