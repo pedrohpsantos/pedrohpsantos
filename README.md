@@ -5,9 +5,7 @@
 <br><br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohpsantos&show_icons=true&locale=en&hide_border=true&theme=catppuccin_mocha&include_all_commits=false&count_private=false&t=1" />
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&hide_border=true&layout=compact&langs_count=6&theme=catppuccin_mocha&disable_animations=true&t=1" />
+  <img src="https://github.com/pedrohpsantos/pedrohpsantos/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <br><br>
