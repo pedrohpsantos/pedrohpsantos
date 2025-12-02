@@ -15,11 +15,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: pedrohpsantos
           
-          # === Visual Minimalista ===
+          # === Visual Clean ===
           base: "" 
           config_timezone: America/Sao_Paulo
-          
-          # CSS para garantir que o texto fique legível no fundo escuro
           config_style_css: |
              .stat { color: #cdd6f4; }
              .field { color: #cdd6f4; }
@@ -27,16 +25,24 @@ jobs:
           
           # === Plugin: Linguagens ===
           plugin_languages: yes
-          # Removi 'shell' da lista de ignorados para mostrar mais coisas se quiser
+          # Mostra tudo, exceto arquivos de configuração puros
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           
-          # AQUI MUDOU: Limite maior e threshold zero para mostrar tudo
           plugin_languages_limit: 15
           plugin_languages_threshold: 0%
           
-          # AQUI MUDOU: Cores "rainbow" para evitar repetição e ficar mais vivo
-          plugin_languages_colors: "rainbow"
+          # === A MÁGICA ESTÁ AQUI (Cores Manuais do Catppuccin) ===
+          # Mapeando cada linguagem para uma cor da sua paleta preferida
+          plugin_languages_colors: >-
+            c:#89b4fa,
+            python:#f9e2af,
+            javascript:#a6e3a1,
+            tsx:#cba6f7,
+            vim script:#fab387,
+            shell:#94e2d5,
+            typescript:#f5c2e7,
+            java:#f38ba8
           
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
