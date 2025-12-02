@@ -15,43 +15,26 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: pedrohpsantos
           
-          # === Visual & Tema (Catppuccin Mocha Real) ===
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
-          config_padding: 0, 10%
+          # === Configuração: Apenas Linguagens ===
+          # "base: header" mantém apenas o topo (Nome). 
+          # Se quiser remover até o nome e deixar SÓ as barras, use base: ""
+          base: "" 
           
-          # Forçando as cores do Catppuccin Mocha via CSS
+          # Configuração Visual (Catppuccin Mocha)
+          config_timezone: America/Sao_Paulo
           config_style_css: |
-             .header { fill: #89b4fa; }
              .stat { color: #cdd6f4; }
              .field { color: #cdd6f4; }
              .content { color: #cdd6f4; }
-             h2 { color: #89b4fa; }
           
-          # === Linguagens ===
+          # === Plugin: Linguagens ===
           plugin_languages: yes
+          # Removi 'shell' também para focar nas linguagens de programação reais
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, shell
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
           plugin_languages_details: bytes-size, percentage
-          
-          # === Conquistas (Modo Compacto e Seguro) ===
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          # Desativei 'secrets' temporariamente pois costuma causar o erro se o token não for perfeito
-          plugin_achievements_secrets: no 
-          
-          # === Hábitos de Codificação (Correção do Erro) ===
-          plugin_habits: yes
-          # Reduzi de 200 para 100 eventos para evitar o crash (timeout)
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # === Linhas de Código ===
-          plugin_lines: yes
+          # Layout compacto para caber bem
+          plugin_languages_indepth: yes
