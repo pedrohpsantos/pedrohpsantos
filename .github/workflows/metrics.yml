@@ -1,0 +1,40 @@
+name: Metrics
+on:
+  # Roda a cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente na aba "Actions" para testar
+  workflow_dispatch:
+  # Roda a cada push na main (opcional)
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu token padrão do GitHub (já existe, não precisa criar nada)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opções Gerais
+          user: pedrohpsantos
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # Configuração Visual (Catppuccin Mocha aproximado)
+          config_style_css: |
+            .header { fill: #89b4fa; }
+            .stat { color: #cdd6f4; }
+          
+          # Plugin: Linguagens
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 0%
