@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Roda a cada 24 horas
+  # Atualiza todo dia à meia-noite
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente na aba "Actions" para testar
+  # Permite rodar manualmente
   workflow_dispatch:
-  # Roda a cada push na main (opcional)
+  # Roda a cada push na main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,26 +15,41 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token padrão do GitHub (já existe, não precisa criar nada)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Opções Gerais
           user: pedrohpsantos
+          
+          # === Configuração Visual e Tema ===
           template: classic
+          # Aplica o tema Catppuccin Mocha diretamente
+          theme: catppuccin-mocha
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          # Configuração Visual (Catppuccin Mocha aproximado)
-          config_style_css: |
-            .header { fill: #89b4fa; }
-            .stat { color: #cdd6f4; }
-          
-          # Plugin: Linguagens
+          # === Plugin: Linguagens (Corrigido) ===
           plugin_languages: yes
+          # Removi html, css, etc. da lista de ignorados para eles aparecerem
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_limit: 8
+          # Mostra barras de progresso e porcentagens
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_colors: "github"
-          plugin_languages_threshold: 0%
+          
+          # === Novos Plugins para deixar "Mais Vivo" ===
+          
+          # Plugin: Conquistas (Badges divertidas)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          
+          # Plugin: Hábitos de Codificação (Horários, dias, etc.)
+          plugin_habits: yes
+          plugin_habits_from: 200       # Analisa os últimos 200 eventos
+          plugin_habits_days: 14        # Nos últimos 14 dias
+          plugin_habits_facts: yes      # Mostra fatos curiosos
+          plugin_habits_charts: yes     # Mostra gráficos de atividade
+          
+          # Plugin: Linhas de Código (Total adicionado/removido)
+          plugin_lines: yes
