@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://github.com/pedrohpsantos/pedrohpsantos/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrohpsantos&theme=catppuccin_mocha&no-frame=true&row=1&column=7" />
 </div>
 
 <br><br>
