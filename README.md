@@ -1,2 +1,7 @@
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+[Pedro's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohpsantos&theme=catppuccin_mocha&layout=compact)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="/github-metrics.svg" alt="Metrics" width="75%">
