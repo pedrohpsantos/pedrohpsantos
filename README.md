@@ -1,46 +1,44 @@
-# Olá, eu sou o Pedro Henrique! 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Data%20Engineer%20&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+there!;I'm+Pedro+Henrique;Software+Engineer+%26+Data+Scientist;May+the+force+be+with+you+:-)" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 Sobre Mim
-
-Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)** e **Ciência de Dados**.
-
-- 🔭 **Atualmente trabalhando em:** Projetos de análise de confiabilidade e desenvolvimento de algoritmos em C.
-- 🌱 **Aprendendo:** Machine Learning, Golang e Arquitetura Cloud.
-- ⚙️ **Workflow:** Valorizo commits limpos, design modular e pausas estratégicas para avaliação de projeto.
-- 🐧 **OS:** Windows 11 e Linux (Ubuntu WSL).
+Estudante de **Engenharia de Software (UnB)** e **Ciência de Dados**.
+* 🔭 **Foco:** Análise de confiabilidade, Algoritmos em C e MLOps.
+* 🌱 **Aprendendo:** Golang, Arquitetura Cloud e Otimização de Sistemas.
+* ⚙️ **Workflow:** Valorizo commits limpos e design modular.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+<div align="center">
+  
+  **Tech Stack**
+  
+  <div style="display: inline_block">
+    <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="SQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Cpp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Bash" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </div>
+  
+  <br>
+  
+  **Tools & Environment**
+  
+  <div style="display: inline_block">
+    <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Windows" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
+    <img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="VSCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
 
-**Core Stack:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Pedro-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Pedro-Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Pedro-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-<br>
-
-**Ferramentas & DevOps:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Pedro-Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Pedro-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Pedro-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ---
 
 ### ⚡ Fun Facts
-
-* 🎸 Minhas playlists de **Rock** são essenciais para sessões de codificação.
-* 🌌 Fã de **Star Wars** (tentando trazer a força para o código).
-* ⌨️ Gosto de configurar ambientes de desenvolvimento (Neovim/Vscode) tanto quanto gosto de programar neles.
+* 🎸 **Playlist:** Rock e Rap/Trap são essenciais no meu dia a dia.
+* 🌌 **Geek:** Fã de Star Wars e entusiasta de personalização (Neovim/WSL).
