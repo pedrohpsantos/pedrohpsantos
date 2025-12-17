@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre Mim
 Sou **Técnico em Informática** e graduando em **Engenharia de Software (UnB)** e **Ciência de Dados**.
-* 🔭 **Foco:** Análise de confiabilidade, Algoritmos em C e MLOps.
+* 🔭 **Foco:** Machine Learning.
 * 🌱 **Aprendendo:** Golang, Arquitetura Cloud e Otimização de Sistemas.
 * ⚙️ **Workflow:** Valorizo commits limpos e design modular.
 
