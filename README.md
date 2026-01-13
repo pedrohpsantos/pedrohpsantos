@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+there!;I'm+Pedro+Henrique;Software+Engineer+%26+Data+Scientist;May+the+force+be+with+you+:-)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+there!;I'm+Pedro+Henrique;Software+Engineer;May+the+force+be+with+you+:-)" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 Sobre Mim
-Sou **Técnico em Informática** e graduando em **Engenharia de Software (UnB)** e **Ciência de Dados**.
+Sou **Técnico em Informática** e graduando em **Engenharia de Software (UnB)**.
 * 🔭 **Foco:** Machine Learning e IA.
 * 🌱 **Aprendendo:** Golang.
 * ⚙️ **Workflow:** Valorizo commits limpos e design modular.
@@ -41,4 +41,4 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software (UnB)**
 
 ### ⚡ Fun Facts
 * 🎸 **Playlist:** Rock e Rap/Trap são essenciais no meu dia a dia.
-* 🌌 **Geek:** Fã de Star Wars e entusiasta de personalização (Neovim/WSL).
+* 🌌 **Geek:** Fã de Star Wars e entusiasta de personalização.
