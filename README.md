@@ -16,7 +16,7 @@
 
 Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento segue a filosofia de eficiência absoluta e controle de dados.
 
-* 🔭 **Foco de Conquista**: Dominar a galáxia do **Data Science**.
+* 🔭 **Focus**: Dominar a galáxia do **Data Science**.
 * 🌱 **Stack Expansion:** Aprofundamento técnico em **Golang** para microsserviços.
 * ⚡ **The Code:** *"Peace is a lie, there is only Code."* — Priorizo arquitetura limpa, commits atômicos e performance otimizada.
 
@@ -45,7 +45,7 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela 
         <sub style="color: #E60000; font-weight: bold;">Data Systems</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=docker,git,bash,vscode&theme=dark" /><br>
         <sub style="color: #E60000; font-weight: bold;">Infrastructure & Tools</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
@@ -58,7 +58,7 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela 
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Holocron Data
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohpsantos&theme=github_dark" />
@@ -69,7 +69,7 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela 
 
 ---
 
-### 🎲 Background Data
+### 🎲 Background Facts
 
 <div align="left">
   <ul> <li><b>OS Loyalty:</b> Império Galáctico <code>Windows</code>, mas conheço os caminhos da Rebelião <code>WSL/Linux</code>.</li>
