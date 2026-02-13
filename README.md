@@ -1,47 +1,52 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello+there!;I'm+Pedro+Henrique;Software+Engineer;May+the+force+be+with+you+:-)" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20the%20Dark%20Side&fontSize=40&fontColor=E60000&fontAlignY=35&animation=fadeIn" alt="Header Sith" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E60000&background=00000000&center=true&vCenter=true&width=800&lines=I'm+Pedro+Henrique;Sith+Apprentice+in+Software+Eng.;Crushing+Data+Science+Challenges;Join+the+Dark+Side+of+the+Code." alt="Typing SVG Red" />
 </div>
-
-### 🧑🏻‍💻 Sobre Mim
-Sou **Técnico em Informática** e graduando em **Engenharia de Software (UnB)**.
-* 🔭 **Foco:** Data Science.
-* 🌱 **Aprendendo:** Golang.
-* ⚙️ **Workflow:** Valorizo commits limpos e design modular.
-
----
 
 <div align="center">
-  
-  **Tech Stack**
-  
-  <div style="display: inline_block">
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-    <img align="center" alt="Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </div>
-  
-  <br>
-  
-  **Tools & Environment**
-  
-  <div style="display: inline_block">
-    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
-    <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-
+  <img src="https://media.giphy.com/media/e7FOBuKCDtwWI/giphy.gif" width="600" alt="Vader GIF" />
 </div>
 
 ---
 
-### ⚡ Fun Facts
-* 🎹 **Playlist:** Rock e Rap/Trap são essenciais no meu dia a dia.
-* 🌌 **Geek:** Fã de Star Wars e entusiasta de personalização.
+### 📡 Transmissão Imperial: Sobre Mim
+
+Sou **Técnico em Informática** e buscando poder ilimitado na **Engenharia de Software (UnB)**.
+* 🔭 **Foco de Conquista:** Dominar a galáxia do **Data Science**.
+* 🌱 **Treinamento Sith:** Aprimorando habilidades em **Golang**.
+* ⚙️ **Código Sith:** Otimização implacável. Valorizo commits limpos e design modular.
+
+---
+
+### ⚔️ Arsenal (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,java,cpp,bash,php,html,css,js&theme=dark" />
+  <br><br>
+  <b>Ambiente de Operações</b><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,windows,linux,vscode&theme=dark" />
+</div>
+
+---
+
+### ⚡ Holocron Data (Estatísticas)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohpsantos&theme=github_dark" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrohpsantos&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrohpsantos&theme=github_dark" />
+</div>
+
+---
+
+### 🎲 Cantina (Fun Facts)
+
+* 🛸 **Lealdade:** Império Galáctico (Windows/WSL), mas conheço os caminhos da Rebelião (Linux).
+* 🎵 **Marcha Imperial:** Minhas sessões de código são movidas a **Rock** pesado e **Rap/Trap**.
+* 🌌 **Inspiração:** O poder do Lado Sombrio e a precisão do código limpo.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sith-Lord-E60000?style=for-the-badge&logo=starwars&logoColor=white" />
+</div>
