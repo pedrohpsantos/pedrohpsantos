@@ -43,7 +43,7 @@ Sou **Técnico em Informática** e buscando poder ilimitado na **Engenharia de S
 
 ### 🎲 Cantina (Fun Facts)
 
-* 🛸 **Lealdade:** Império Galáctico (Windows/WSL), mas conheço os caminhos da Rebelião (Linux).
+* 🛸 **Lealdade:** Império Galáctico (Windows), mas conheço os caminhos da Rebelião (Linux/WSL).
 * 🎵 **Marcha Imperial:** Minhas sessões de código são movidas a **Rock** pesado e **Rap/Trap**.
 * 🌌 **Inspiração:** O poder do Lado Sombrio e a precisão do código limpo.
 
