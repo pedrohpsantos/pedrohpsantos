@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=E60000&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=2f81f7&fontAlignY=35&animation=fadeIn" alt="Header" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=E60000&background=00000000&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergrad+%40+UnB;Data+Science+%26+Analytics+Enthusiast;Building+Scalable+%26+Efficient+Code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2f81f7&background=00000000&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergrad+%40+UnB;Data+Science+%26+Analytics+Enthusiast;Building+Scalable+%26+Efficient+Code." alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/pedrohpsantos">
-    <img src="https://img.shields.io/badge/Base-Brasília%2C%20Brazil-0d1117?style=flat&logo=google-maps&logoColor=E60000" />
+    <img src="https://img.shields.io/badge/Base-Brasília%2C%20Brazil-0d1117?style=flat&logo=google-maps&logoColor=2f81f7" />
   </a>
 </div>
 
 <br>
 
-### 🔴 Architecture & Intelligence
+### 🔵 Republic Engineering
 
-Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento segue a filosofia de eficiência absoluta e controle de dados.
+Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento busca a harmonia entre código limpo e funcionalidade robusta.
 
-* 🔭 **Focus**: Dominar a galáxia do **Data Science**.
-* 🌱 **Stack Expansion:** Aprofundamento técnico em **Golang** para microsserviços.
-* ⚡ **The Code:** *"Peace is a lie, there is only Code."* — Priorizo arquitetura limpa, commits atômicos e performance otimizada.
+* 🔭 **Focus**: Explorar a galáxia do **Data Science**.
+* 🌱 **Stack Expansion:** Treinamento Padawan em **Golang** para microsserviços.
+* ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo arquitetura limpa, commits atômicos e lógica precisa.
 
 <br>
 
 <div align="center">
-    <h3><i>"Join the Dark Side of the Code."</i></h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BrcW9lMmJkZnl1M2VnZGo5ZXptcWZjYTZ4eTlod2IwbWd2ZGJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2w5MMNvg70MrQ0I2DR/giphy.gif" width="600" alt="Darth Maul GIF" style="border-radius: 8px;">
+    <h3><i>"May the Source be with you."</i></h3>
+    <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="600" alt="Obi-Wan Hello There" style="border-radius: 8px;">
 </div>
 
 <br>
@@ -38,19 +38,19 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela 
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <img src="https://skillicons.dev/icons?i=python,java,cpp,php&theme=dark" /><br>
-        <sub style="color: #E60000; font-weight: bold;">Core Languages</sub>
+        <sub style="color: #2f81f7; font-weight: bold;">Core Languages</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /><br>
-        <sub style="color: #E60000; font-weight: bold;">Data Systems</sub>
+        <sub style="color: #2f81f7; font-weight: bold;">Data Systems</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <img src="https://skillicons.dev/icons?i=docker,git,bash,vscode&theme=dark" /><br>
-        <sub style="color: #E60000; font-weight: bold;">Infrastructure & Tools</sub>
+        <sub style="color: #2f81f7; font-weight: bold;">Infrastructure & Tools</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
-        <sub style="color: #E60000; font-weight: bold;">Frontend Interface</sub>
+        <sub style="color: #2f81f7; font-weight: bold;">Frontend Interface</sub>
       </td>
     </tr>
   </table>
@@ -72,14 +72,15 @@ Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela 
 ### 🎲 Background Facts
 
 <div align="left">
-  <ul> <li><b>OS Loyalty:</b> Império Galáctico <code>Windows</code>, mas conheço os caminhos da Rebelião <code>WSL/Linux</code>.</li>
-    <li><b>Fuel:</b> Café forte, <b>Rock</b> e <b>Rap/Trap</b> para foco profundo.</li>
-    <li><b>Inspiration:</b> O poder do Lado Sombrio e a precisão do código limpo.</li>
+  <ul> 
+    <li><b>OS Loyalty:</b> Operando em território Imperial <code>Windows</code>, mas a Resistência vive no <code>WSL (Debian)</code>.</li>
+    <li><b>Fuel:</b> Café forte, <b>Rock</b> e <b>Rap/Trap</b> para meditação e foco.</li>
+    <li><b>Inspiration:</b> A sabedoria Jedi e a clareza do código limpo.</li>
   </ul>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Sith-Lord-E60000?style=for-the-badge&logo=starwars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Clean-0d1117?style=for-the-badge&logo=github&logoColor=E60000" />
+  <img src="https://img.shields.io/badge/Jedi-Knight-2f81f7?style=for-the-badge&logo=starwars&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Clean-0d1117?style=for-the-badge&logo=github&logoColor=2f81f7" />
 </div>
