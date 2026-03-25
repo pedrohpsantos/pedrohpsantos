@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=2f81f7&fontAlignY=35&animation=fadeIn" alt="Header" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2f81f7&background=00000000&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergrad+%40+UnB;Data+Science+%26+Analytics+Enthusiast;Building+Scalable+%26+Efficient+Code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2f81f7&background=00000000&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergrad+%40+UnB;Information+Security+%26+Cybersecurity+Enthusiast;Building+Scalable+%26+Efficient+Code." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 ### 🔵 Republic Engineering
 
-Sou **Técnico em Informática** e graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento busca a harmonia entre código limpo e funcionalidade robusta.
+Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento busca a harmonia entre código limpo e funcionalidade robusta.
 
-* 🔭 **Focus**: Explorar a galáxia do **Data Science**.
+* 🔭 **Focus**: Explorar a galáxia do **Cybersegurança**.
 * 🌱 **Stack Expansion:** Treinamento Padawan em **Golang** para microsserviços.
 * ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo arquitetura limpa, commits atômicos e lógica precisa.
 
