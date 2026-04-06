@@ -74,7 +74,7 @@ Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB)
 <div align="left">
   <ul> 
     <li><b>OS Loyalty:</b> Operando em território Imperial <code>Windows</code>, mas a Resistência vive no <code>WSL</code>.</li>
-    <li><b>Fuel:</b> Café forte, <b>Rock</b> e <b>Rap/Trap</b> para meditação e foco.</li>
+    <li><b>Fuel:</b> Café forte e <b>Rock</b> para meditação e foco.</li>
     <li><b>Inspiration:</b> A sabedoria Jedi e a clareza do código limpo.</li>
   </ul>
 </div>
