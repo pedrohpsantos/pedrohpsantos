@@ -5,20 +5,23 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/pedrohpsantos">
-    <img src="https://img.shields.io/badge/Base-Brasília%2C%20Brazil-0d1117?style=flat&logo=google-maps&logoColor=2f81f7" />
-  </a>
+  <img src="https://img.shields.io/badge/Base-Brasília%2C%20DF-0d1117?style=flat&logo=google-maps&logoColor=2f81f7" />
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=pedrohpsantos&style=flat&color=2f81f7&label=Profile+Views" />
 </div>
 
 <br>
 
 ### 🔵 Republic Engineering
 
-Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB). Minha abordagem de desenvolvimento busca a harmonia entre código limpo e funcionalidade robusta.
+Graduando em **Engenharia de Software** pela Universidade de Brasília e **Segurança da Informação**.
 
-* 🔭 **Focus**: Explorar a galáxia do **Cybersegurança**.
-* 🌱 **Stack Expansion:** Treinamento Padawan em **Golang** para microsserviços.
+A abordagem: arquitetura limpa, contratos bem definidos e código que sobrevive à linha do tempo — como um holocron bem preservado.
+
+* 🔭 **Current Arc**: Explorar a galáxia do **Cybersegurança**.
+* 🌱 **Stack Expansion:** Treinamento Padawan em **Rust** e **Engenharia de Prompt**.
 * ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo arquitetura limpa, commits atômicos e lógica precisa.
+* 🎓 **CoC**: Do prompt ao agente — CI&T Academy / DIO 
 
 <br>
 
@@ -37,20 +40,30 @@ Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB)
   <table>
     <tr>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=python,java,cpp,php&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=java,python,cpp,php,typescript&theme=dark" /><br>
         <sub style="color: #2f81f7; font-weight: bold;">Core Languages</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /><br>
-        <sub style="color: #2f81f7; font-weight: bold;">Data Systems</sub>
+        <img src="https://skillicons.dev/icons?i=spring,react,vite,nodejs&theme=dark" /><br>
+        <sub style="color: #2f81f7; font-weight: bold;">Frameworks & Runtime</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=docker,git,bash,vscode&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark" /><br>
+        <sub style="color: #2f81f7; font-weight: bold;">Data Systems</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,vscode&theme=dark" /><br>
         <sub style="color: #2f81f7; font-weight: bold;">Infrastructure & Tools</sub>
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" /><br>
         <sub style="color: #2f81f7; font-weight: bold;">Frontend Interface</sub>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=go,rust&theme=dark" /><br>
+        <sub style="color: #2f81f7; font-weight: bold;">Expanding Galaxy</sub>
       </td>
     </tr>
   </table>
@@ -73,9 +86,9 @@ Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB)
 
 <div align="left">
   <ul> 
-    <li><b>OS Loyalty:</b> Operando em território Imperial <code>Windows</code>, mas a Resistência vive no <code>WSL</code>.</li>
-    <li><b>Fuel:</b> Café forte e <b>Rock</b> para meditação e foco.</li>
-    <li><b>Inspiration:</b> A sabedoria Jedi e a clareza do código limpo.</li>
+    <li><b>OS Loyalty:</b> Windows 11 — o Império nunca dormiu. A Resistência mora no <code>WSL</code>.</li>
+    <li><b>Fuel:</b> Café e <b>Rock</b> — o verdadeiro midi-chlorian do desenvolvedor.</li>
+    <li><b>Side Quest:</b> CTF player em formação, explorando o lado sombrio da segurança ofensiva.</li>
   </ul>
 </div>
 
@@ -83,4 +96,5 @@ Sou graduando em **Engenharia de Software** pela Universidade de Brasília (UnB)
   <br>
   <img src="https://img.shields.io/badge/Jedi-Knight-2f81f7?style=for-the-badge&logo=starwars&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Clean-0d1117?style=for-the-badge&logo=github&logoColor=2f81f7" />
+  <img src="https://img.shields.io/badge/CTF-Padawan-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
