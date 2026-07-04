@@ -18,9 +18,9 @@ Graduando em **Engenharia de Software** pela Universidade de Brasília e **Segur
 
 A abordagem: arquitetura limpa, contratos bem definidos e código que sobrevive à linha do tempo — como um holocron bem preservado.
 
-* 🔭 **Current Arc**: Explorar a galáxia do **Cybersegurança**.
+* 🔭 **Current Arc**: Explorar a galáxia da **Cybersegurança**.
 * 🌱 **Stack Expansion:** Treinamento Padawan em **Rust** e **Engenharia de Prompt**.
-* ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo arquitetura limpa, commits atômicos e lógica precisa.
+* ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo commits atômicos e lógica precisa.
 * 🎓 **CoC**: Do prompt ao agente — CI&T Academy / DIO 
 
 <br>
@@ -87,7 +87,7 @@ A abordagem: arquitetura limpa, contratos bem definidos e código que sobrevive 
 <div align="left">
   <ul> 
     <li><b>OS Loyalty:</b> Windows 11 — o Império nunca dormiu. A Resistência mora no <code>WSL</code>.</li>
-    <li><b>Fuel:</b> Café e <b>Rock</b> — o verdadeiro midi-chlorian do desenvolvedor.</li>
+    <li><b>Fuel:</b> Café e Rock — o verdadeiro midi-chlorian do desenvolvedor.</li>
     <li><b>Side Quest:</b> CTF player em formação, explorando o lado sombrio da segurança ofensiva.</li>
   </ul>
 </div>
