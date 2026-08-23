@@ -21,7 +21,7 @@ A abordagem: arquitetura limpa, contratos bem definidos e código que sobrevive 
 * 🔭 **Current Arc**: Explorar a galáxia da **Cybersegurança**.
 * 🌱 **Stack Expansion:** Treinamento Padawan em **Rust** e **Engenharia de Prompt**.
 * ⚡ **The Code:** *"Do or do not, there is no try."* — Priorizo commits atômicos e lógica precisa.
-* 🎓 **CoC**: Do prompt ao agente — CI&T Academy / DIO 
+* 🎓 **CoC**: Santander 2026 - Rust AI Developer
 
 <br>
 
