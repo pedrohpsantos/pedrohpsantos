@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=2f81f7&fontAlignY=35&animation=fadeIn" alt="Header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=700&lines=Applied+AI+%26+Software+Engineering+%40+UnB;LLMs+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+Rules+engines+%C2%B7+FastAPI;AI+Resident+%26+Tech+Lead+%40+Instituto+Eldorado;Security-minded+by+default." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=700&lines=Applied+AI+%26+Software+Engineering+%40+UnB;LLMs+%C2%B7+RAG+%C2%B7+OCR+%C2%B7+Rules+engines+%C2%B7+FastAPI;AI+Resident+%26+Student+%40+Instituto+Eldorado;Security-minded+by+default." alt="Typing SVG" />
 </div>
 
 <div align="center">
