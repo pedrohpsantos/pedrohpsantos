@@ -19,7 +19,7 @@
 Software Engineering undergrad at **Universidade de Brasília (UnB)** (expected 2028) and Information Security student at **UniFatecie**.
 I build **applied AI systems that have to be right and auditable**: document extraction (OCR), retrieval-augmented generation, declarative rules engines and LLM harnesses on top of clean **Python/FastAPI** backends.
 
-- 🛰️ **Now:** AI Resident & **Tech Lead** at **Instituto de Pesquisas Eldorado**, plus Tech Lead / PO of **Conform.IA** (R&D for BNDES Public Consultation 01/2025).
+- 🛰️ **Now:** AI Resident at **Instituto de Pesquisas Eldorado**, plus Tech Lead / PO of **Conform.IA** (R&D for BNDES Public Consultation 01/2025).
 - 🧪 **Focus:** LLMs, RAG, evaluation harnesses, MLOps basics; backend & cloud as support.
 - 🛡️ **Second track:** application security & CTFs — I design systems with threat models, not as an afterthought.
 - 🌎 English: advanced — comfortable working and interviewing in English.
